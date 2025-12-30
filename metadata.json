@@ -1,0 +1,6 @@
+{
+  "name": "Veo Explainer",
+  "description": "Generate prompts to explain things with Veo",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
